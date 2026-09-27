@@ -1,4 +1,4 @@
-function Home () {
+function Home() {
     return <h1>Site na vercel.</h1>
 }
 
